@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40e0f874.css",
+    "main.js": "/static/js/main.8219d739.js",
+    "static/js/787.174a0e6e.chunk.js": "/static/js/787.174a0e6e.chunk.js",
+    "static/media/VongQuay-HoanMy-02.png": "/static/media/VongQuay-HoanMy-02.774626cc761c24be4bf5.png",
+    "static/media/anh3.jpg": "/static/media/anh3.e3f7cc95dfce13d920d3.jpg",
+    "static/media/banner.jpg": "/static/media/banner.40a3e2b1b23788afab0e.jpg",
+    "static/media/anh2.jpg": "/static/media/anh2.71c3ec655f3656fc8327.jpg",
+    "static/media/mui ten.png": "/static/media/mui ten.c93b04aab04ec4e4e070.png",
+    "static/media/nutquay.png": "/static/media/nutquay.001cf40b9d0cff2ed5c8.png",
+    "index.html": "/index.html",
+    "main.40e0f874.css.map": "/static/css/main.40e0f874.css.map",
+    "main.8219d739.js.map": "/static/js/main.8219d739.js.map",
+    "787.174a0e6e.chunk.js.map": "/static/js/787.174a0e6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e0f874.css",
+    "static/js/main.8219d739.js"
+  ]
+}
